@@ -1,6 +1,6 @@
 # CodingChallenge
 
-## Running instructions 
+## How to run the java programs 
 1. Open the codingchallenge package folder.
    ```
    folder can be found in \src\com\codingchallenge
