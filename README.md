@@ -14,4 +14,5 @@
 
 ## Scenario 2 Sample:
 
-![Scenario_2](https://github.com/user-attachments/assets/0efb2ad9-5e87-466a-bb1e-61e0d9996e61)
+![Scenario_2](https://github.com/user-attachments/assets/68084ca9-b4e3-444b-b17a-f1f54399ebe0)
+
